@@ -9,11 +9,13 @@ The detailed coding and files are at the other branch.
 ## DEMO
 **Demo 1** : Dataset distribution visualization
 
+**Demo 2**: CICIDS 2017 using AE with 40k samples
 
-**Demo 2**: CICIDS 2017 using AE, VAE, GMM
+**Demo 3**: CICIDS 2017 using AE with full samples
 
+**Demo 3**: CICIDS 2017 using GMM and VAE
 
-**Demo 3**: KDD CUP 99 using AE, VAE, GMM
+**Demo 4**: KDD CUP 99 using AE, VAE, GMM
 
 ## DATASET
 To run the demo, please download the dataset from the official website. Due to  github limitation, sorry we cannot upload the big dataset.
