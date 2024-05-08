@@ -13,9 +13,9 @@ The detailed coding and files are at the other branch.
 
 **Demo 3**: CICIDS 2017 using AE with full samples
 
-**Demo 3**: CICIDS 2017 using GMM and VAE
+**Demo 4**: CICIDS 2017 using GMM and VAE
 
-**Demo 4**: KDD CUP 99 using AE, VAE, GMM
+**Demo 5**: KDD CUP 99 using AE, VAE, GMM
 
 ## DATASET
 To run the demo, please download the dataset from the official website. Due to  github limitation, sorry we cannot upload the big dataset.
