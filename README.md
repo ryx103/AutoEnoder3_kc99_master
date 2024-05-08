@@ -34,7 +34,7 @@ To run the demo, please download the dataset from the official website. Due to  
 7. https://docs.seldon.io/projects/alibi-detect/en/latest/examples/od_vae_kddcup.html
 8. https://github.com/danieltan07/dagmm/?tab=readme-ov-file
 9. https://github.com/brett-gt/IntrusionDetectionSystem
-
+10. https://github.com/mperezcarrasco/PyTorch-DAGMM
 
 # Thanks.
 
