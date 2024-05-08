@@ -18,7 +18,9 @@ The detailed coding and files are at the other branch.
 **Demo 5**: KDD CUP 99 using AE, VAE, GMM
 
 ## DATASET
-To run the demo, please download the dataset from the official website. Due to  github limitation, sorry we cannot upload the big dataset.
+To run the demo, please download the dataset from the official website. 
+
+Due to  github limitation, sorry we cannot upload the big dataset.
 
 
 **KDD CUP 99**: https://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html
@@ -26,7 +28,7 @@ To run the demo, please download the dataset from the official website. Due to  
 
 **CICIDS 2017**: https://www.kaggle.com/datasets/cicdataset/cicids2017
 
-### Reference
+### References
 1. Jinwon An and Sungzoon Cho, "Variational autoencoder based anomaly detection using reconstruction probability," *Special Lecture on IE*, 21(1):1–18, 2015.
 2. Zhaomin Chen, Chai Kiat Yeo, Bu Sung Lee, and Chiew Tong Lau, "Autoencoder-based network anomaly detection," in *2018 Wireless telecommunications symposium (WTS)*, pp. 1-5. IEEE, 2018.
 3. David E. Rumelhart, Geoffrey E. Hinton, and Ronald J. Williams, "Learning internal representations by error propagation," 1986. Available at [Semantic Scholar](https://api.semanticscholar.org/CorpusID:62245742).
