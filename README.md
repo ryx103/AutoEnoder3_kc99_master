@@ -1,5 +1,5 @@
 # Attacked connection detection using AE, VAE and GMM
-## Author： Yixuan Ren, Zhuoer Shen, Jiahui Zhang
+## AUTHORS： Yixuan Ren, Zhuoer Shen, Jiahui Zhang
 
 The demos are shown at the main branch with result in ipynb file.
 
@@ -17,7 +17,7 @@ The detailed coding and files are at the other branch.
 
 **Demo 5**: KDD CUP 99 using AE, VAE, GMM
 
-## DATASET
+## DATASETS
 To run the demo, please download the dataset from the official website. 
 
 Due to  github limitation, sorry we cannot upload the big dataset.
